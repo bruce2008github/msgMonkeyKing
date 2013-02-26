@@ -1,3 +1,5 @@
+
+*****************************************************************************************************
 Note:
    
    When msgMonkeyKing receive the client message and it will do some work,then forword to the server.
@@ -8,10 +10,12 @@ Note:
 
    It can handle thousands of client TCP connections concurrently.
 
+*****************************************************************************************************
 Build:
 
    run make command
 
+*****************************************************************************************************
 Usage:
    
    1) launch your tcp application server 
