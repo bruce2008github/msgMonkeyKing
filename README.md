@@ -6,7 +6,7 @@ Note:
 
    It can simulate the TCP network delay and packet fragmentation and assembly.
 
-   The msgMonkeyKing is useful to testing the TCP network server application.
+   The msgMonkeyKing is useful to do the TCP network server application testing.
 
    It can handle thousands of client TCP connections concurrently.
 
